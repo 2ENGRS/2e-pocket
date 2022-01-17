@@ -1,2 +1,2 @@
-# 2e-pocket
-2E Pocket - Extremely extra fancy new tab page
+# 2e-rocket
+2E Rocket - Extremely extra fancy new tab page
