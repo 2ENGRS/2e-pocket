@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+    "name": "2E Rocket",
+    "author": "2ENGRS",
+    "version": "1.0.1",
+    "description": "Replace new tab screen with amazing things",
+    "icons": {
+      "16": "rocket-16.png",
+      "48": "rocket-64.png",
+      "128": "rocket-128.png"
+    },
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    }
+}
